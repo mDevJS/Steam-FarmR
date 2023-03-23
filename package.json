@@ -1,0 +1,34 @@
+{
+  "name": "steam-farmr",
+  "version": "1.0.0",
+  "description": "Steam FarmR allows you to easily boost hours on your multiple Steam accounts.",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "cls && echo Running development build... && node src/app.js --inspect && echo Program finished."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mDevJS/Steam-FarmR.git"
+  },
+  "keywords": [
+    "steam",
+    "hour",
+    "boost",
+    "idle",
+    "steam",
+    "farm",
+    "archi",
+    "steam",
+    "farm"
+  ],
+  "author": "themdeveloper@yahoo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mDevJS/Steam-FarmR/issues"
+  },
+  "homepage": "https://github.com/mDevJS/Steam-FarmR#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "request-promise": "^4.2.6"
+  }
+}
